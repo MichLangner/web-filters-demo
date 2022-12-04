@@ -1,0 +1,12 @@
+sda.appUser:
+  - userName: "Ford"
+    password: "Mustang"
+    roles:
+      - ADMIN
+#      - USER
+  - userName: "Tesla"
+    password: "S"
+    roles:
+      - ADMIN
+      - USER
+#      -Autonomous driving
